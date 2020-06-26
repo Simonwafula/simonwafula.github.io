@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Wafula Wekesa</title>
+    <description>Personal portifolio</description>
+    <link>https://simonwafula.github.io/simonwafula.github.io/</link>
+    <atom:link href="https://simonwafula.github.io/simonwafula.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Jun 2020 15:02:41 +0300</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2020 15:02:41 +0300</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>INDEX MATCH In Excel!</title>
+        <description>&lt;p&gt;For a frequent excel user especially one who deals with data analysis or manipulation the INDEX MATCH formula comes up as one of the most important excel lookup functions. Although excel has other lookup functions such as VLOOKUP and  HLOOKUP most advanced excel users report that the INDEX MATCH lookup has an edge over the other lookups.. so to begin&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-index-match-in-excel&quot;&gt;What is INDEX MATCH in Excel?&lt;/h2&gt;
+
+&lt;p&gt;The INDEX MATCH formula is the combination of two functions in Excel: INDEX and MATCH.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;=INDEX()&lt;/code&gt; returns the value of a cell in a table based on the column and row number.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;=MATCH()&lt;/code&gt; returns the position of a cell in a row or column.&lt;/p&gt;
+
+&lt;p&gt;Combined, the two formulas can look up and return the value of a cell in a table based on vertical and horizontal criteria.  Thus, the reference in short to as the Index Match function.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-index-formula&quot;&gt;The INDEX Formula&lt;/h3&gt;
+
+&lt;p&gt;Adapting an example below is an excel table showing students’ name, height, and weight. Using the INDEX formula to look up Kevin’s height is achieved following the steps below:&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Jun 2020 08:46:52 +0300</pubDate>
+        <link>https://simonwafula.github.io/simonwafula.github.io/blog/2020/INDEX-MATCH-In-Excel!/</link>
+        <guid isPermaLink="true">https://simonwafula.github.io/simonwafula.github.io/blog/2020/INDEX-MATCH-In-Excel!/</guid>
+        
+        
+        <category>Excel</category>
+        
+        <category>Skills</category>
+        
+      </item>
+    
+  </channel>
+</rss>
